@@ -5,9 +5,11 @@ Friends의 시나라오 multiclass classfication의 임무담당자 임특입니
 
 LSTM 이용하여 friends의 시나리오를 다중 감정 분류 작업 
 
-train set:friend_train
+train set:friend_train.csv
 
-test set:en_sample
+test set:en_sample.csv
+
+예측결과문 en_prediction.csv에 저장되어 있습니다.
 
 학습하고 value의 손실과 정확도
 [2.6622256030191394, 0.43657705187797546]
